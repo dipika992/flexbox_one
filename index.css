@@ -1,0 +1,12 @@
+body{
+    background-image: url(./WhatsApp\ Image\ 2022-09-30\ at\ 12.04.20\ PM.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#city{
+    display: flex;
+    flex-direction: row;
+}
+#city>div{
+    margin: 2px;
+}
